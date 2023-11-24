@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class StorageProperties {
 
 	/**
-	 * Folder location for storing files
+	 * Ubicación de la carpeta para almacenar archivos.
 	 */
 	private String location = "upload-dir";
 
